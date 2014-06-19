@@ -7,7 +7,7 @@ package hello930;
 public class Hello930 {
 
     public static void main(String[] args) {
-        System.out.println("Hello FRC 930");
+        System.out.println("Hello FRC930");
     }
     
 }
